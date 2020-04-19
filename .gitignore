@@ -1,3 +1,6 @@
+images/*
+!images/master/
+
 # Logs
 logs
 *.log
